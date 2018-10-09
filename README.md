@@ -2,7 +2,7 @@
 
 <img src="https://github.com/will-zw-wang/Chinese_Poems_Generation_with_Deep_Neural_Networks/blob/master/images/Chinese_Poems_image.jpg" width="800" height="200">
 
-[**Detailed Code and Plotting**](https://github.com/will-zw-wang/IMDb_Sentiment_Analysis_Using_Deep_Learning/blob/master/IMDb_Sentiment_Analysis_Using_Deep_Learning.ipynb)
+[**Detailed Code and Plotting**](https://github.com/will-zw-wang/Chinese_Poems_Generation_with_Deep_Neural_Networks/blob/master/Chinese_Poems_Generation_with_Deep_Neural_Networks.ipynb)
 
 ## Project Objectives
 
