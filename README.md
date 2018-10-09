@@ -1,0 +1,2 @@
+# Chinese_Poems_Generation_with_Deep_Neural_Networks
+Chinese poems generation with Deep Neural Networks
