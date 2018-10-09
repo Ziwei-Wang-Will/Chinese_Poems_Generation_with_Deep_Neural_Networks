@@ -16,6 +16,7 @@
 1. Preprocessing for language modeling data
 2. Constructed a seq2seq model using RNNetwork with LSTM
 3. Training and evaluation
+4. Output analysis
 
 ## Analysis Details
 
@@ -32,8 +33,10 @@
 ### 3. Training and evaluation
 - Observed loss
 - Evaluated on test set
-### 4. Chinese poem generated
-- 君马十年年
-- 时中君安一
-- 里不前既不
-- 龙前食上风
+### 4. Output analysis
+- Chinese poem generated
+    - 君马十年年
+    - 时中君安一
+    - 里不前既不
+    - 龙前食上风
+- **Summary**: **Test Perplexity** with 310.66 is too high to generate fluent Chinese poetry, we may need more data to train and improve this model.
