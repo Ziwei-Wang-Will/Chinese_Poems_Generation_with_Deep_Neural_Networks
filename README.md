@@ -11,6 +11,7 @@
 
 ## Dataset description
 - We used [Full Tang poetry(全唐诗)](https://github.com/will-zw-wang/Chinese_Poems_Generation_with_Deep_Neural_Networks/blob/master/data/poetry.txt) as our training data.
+- With 49K Chinese poems
 
 ## Analysis Structure
 1. Preprocessing for language modeling data
