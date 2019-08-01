@@ -7,7 +7,7 @@
 ## Project Objectives
 
 - Constructed a sequence-to-sequence model using Recurrent Neural Network with Long Short-term Memory cells to generate new Chinese poems.
-    - We inputed a sequence of words/characters to an RNN so that it could learn the probability distribution of the next word/character in the sequence given the history of previous characters. This would then allow us to generate text one unit at a time.
+    - We inputted a sequence of words/characters to an RNN so that it could learn the probability distribution of the next word/character in the sequence given the history of previous characters. This would then allow us to generate text one unit at a time.
 
 ## Dataset description
 - We used [Full Tang poetry(全唐诗)](https://github.com/will-zw-wang/Chinese_Poems_Generation_with_Deep_Neural_Networks/blob/master/data/poetry.txt) as our training data.
